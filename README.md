@@ -2,6 +2,7 @@
 
 By easy-to-remember, I mean that it is something that you can say out loud. If it sounds like a word instead of a bunch of random letters, then hopefully you have less trouble remembering it.
 
+If you need real security, just use a completely random password generator (like this one https://bitwarden.com/password-generator/#password-generator). I made this as more of a substitute for super weak/easy-to-crack passwords.
 
 These passwords will follow some rules to accomplish this:
 
