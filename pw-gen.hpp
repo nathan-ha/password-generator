@@ -75,8 +75,6 @@ string generate_password(int pw_length) {
         password += specials[randInt(0, specials.size() - 1)];
     }
 
-    
-
     return password;
 }
 
